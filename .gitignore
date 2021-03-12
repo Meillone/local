@@ -1,2 +1,3 @@
 .idea
 html/tmp/
+!html/tmp/config.php
