@@ -3,9 +3,8 @@
  * Desc: PhpStorm
  * User: meiyulong
  * Date: 2021/3/12
- * Time: 10:16
+ * Time: 11:11
  */
 
-$a = '111';
 
-$c = 111;
+$b=1;
